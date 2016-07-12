@@ -1,1 +1,41 @@
-
+body, html {
+  background-color: rgb(161, 202, 222);
+  height: 100%;
+}
+#tacos {
+  background-color: rgb(247, 211, 105);
+  color: rgb(255, 90, 90);
+  width: 100%;
+  padding: 15px;
+  position: fixed;
+  border: 1px solid rgb(0, 0, 0);
+}
+#contentcontainer {
+	margin-top: 58px;
+	width: 50%;
+	display: block;
+	margin: auto;
+	background-color: #f1f1f1;
+}
+#content {
+	margin-top: 58px;
+	left: 0px;
+	font-family: "Cantarell", sans-serif;
+	padding: 15px;
+	background-color: #ffffff;
+}
+#home-contentcontainer {
+	margin-top: 58px;
+	width: 75%;
+	display: block;
+	margin: auto;
+	background-color: #f1f1f1;
+}
+#home-content {
+	margin-top: 75px;
+	left: 0px;
+	font-family: "Cantarell", sans-serif;
+	padding: 15px;
+	background-color: #ffffff;
+	margin-left: 28%;
+}
