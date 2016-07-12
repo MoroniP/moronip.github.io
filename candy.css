@@ -8,7 +8,10 @@ body, html {
   width: 100%;
   padding: 15px;
   position: fixed;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid #dddddd;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
 }
 #contentcontainer {
 	margin-top: 58px;
